@@ -1,4 +1,4 @@
-# Numo-Local
+# Numo
 
 Numo is a powerful contact sharing application for iOS 8. Written in Swift as an almost exclusively native implementation, Numo allows users in close locational proximity to share their contact information with each other seamlessly.
 
